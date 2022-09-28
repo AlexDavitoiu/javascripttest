@@ -1,0 +1,2 @@
+alert('SALUT, CU TOT RESPECTUL SUGI PULA')
+
